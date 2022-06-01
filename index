@@ -22,7 +22,6 @@ for($i = 0; $i < sizeof($arr); $i++) {
     } else {
         break;
     }
-
 }}
 echo $htm;
 
